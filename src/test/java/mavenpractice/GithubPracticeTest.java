@@ -1,4 +1,4 @@
-package githubpractice;
+package mavenpractice;
 
 import org.testng.annotations.Test;
 
